@@ -1,14 +1,91 @@
 {
-  "background_color": "#ffffff",
-  "description": "No description",
+  "background_color": "#F57C00",
+  "description": "A Neat Expo App",
   "dir": "auto",
   "display": "standalone",
   "lang": "en",
-  "name": "budgets",
+  "name": "Expo Firebase Starter",
   "orientation": "portrait",
   "prefer_related_applications": true,
   "related_applications": [],
-  "short_name": "budgets",
+  "short_name": "Expo Firebase Starter",
   "start_url": ".",
-  "theme_color": "#cccccc"
+  "theme_color": "#4630EB",
+  "icons": [
+    {
+      "src": "/apple/splash/icon_1125x2436.80dc65921263989160461bfda9942607.png",
+      "sizes": "1125x2436",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_1136x640.f17e523815b2a8581ffbbdf68341e726.png",
+      "sizes": "1136x640",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_1242x2208.e0b966d45d675cab9ac3c9f3b4e08cca.png",
+      "sizes": "1242x2208",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_1242x2688.3adece0c9ba3c3c66c5f9780f50d58f0.png",
+      "sizes": "1242x2688",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_1334x750.f4fcaf282c758420670f553f257444a7.png",
+      "sizes": "1334x750",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_1792x828.fd1dea6b74bd3ca908a8689239ef3b8d.png",
+      "sizes": "1792x828",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/icons/icon_180x180.5b430a4f8bb0ea0e4f870974d977a400.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/icons/icon_192x192.fe9e90f565e9c529716ca0b7dd0f8990.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_2208x1242.f8cef3170a591be0a2421b5eaa742043.png",
+      "sizes": "2208x1242",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_2436x1125.4a9e7c95727364c12326d99014924504.png",
+      "sizes": "2436x1125",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_2688x1242.6f7eace72db12d3ec18fca1e134fb97e.png",
+      "sizes": "2688x1242",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/icons/icon_512x512.cd405482fed247b410cad607ba14b282.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_640x1136.c75e06da75029d8ddc3b715305e57d83.png",
+      "sizes": "640x1136",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_750x1334.906098c7fa7923549b2cf4a27d0515fe.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/splash/icon_828x1792.894f7395f5a94c4c44bcea465c2c8aa0.png",
+      "sizes": "828x1792",
+      "type": "image/png"
+    }
+  ]
 }
